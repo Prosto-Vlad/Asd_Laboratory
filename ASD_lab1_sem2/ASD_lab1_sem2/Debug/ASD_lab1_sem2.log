@@ -1,0 +1,6 @@
+﻿  ASD_lab1_sem2.cpp
+D:\Visual Project\Laboratory_ASD\ASD_lab1_sem2\ASD_lab1_sem2\ASD_lab1_sem2.cpp(73,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Project\Laboratory_ASD\ASD_lab1_sem2\ASD_lab1_sem2\ASD_lab1_sem2.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Project\Laboratory_ASD\ASD_lab1_sem2\ASD_lab1_sem2\ASD_lab1_sem2.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Project\Laboratory_ASD\ASD_lab1_sem2\ASD_lab1_sem2\ASD_lab1_sem2.cpp(123,14): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+  ASD_lab1_sem2.vcxproj -> D:\Visual Project\Laboratory_ASD\ASD_lab1_sem2\Debug\ASD_lab1_sem2.exe
